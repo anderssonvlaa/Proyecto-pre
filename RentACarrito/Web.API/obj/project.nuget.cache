@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "IRN1uU9UrJygXPBRjVqe4Oy7nYypSnIdd/+dCuSSzAYxsBg+m53e4i0xGa8D/SMFF3CHqm+f9ha+7obpLOj9/g==",
+  "dgSpecHash": "uzNLaWgHwGoDirMBqy1jJlEACnS9EqmisiihJf0qVdUeNQMRCb1UD9p640Hs/i40isTpWiLMpq1dqUSv6DEMiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\oniichan\\Documents\\Proyecto-pre\\RentACarrito\\Web.API\\Web.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\oniichan\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\oniichan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\oniichan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "C:\\Users\\oniichan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\oniichan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\oniichan\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\oniichan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\oniichan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
