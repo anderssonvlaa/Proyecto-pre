@@ -1,6 +1,6 @@
 namespace Domain.Reservaciones;
 
-public interface IResercionRepository
+public interface IReservacionRepository
 {
     Task<Reservacion?> GetByIdAsinc(ReservacionId id);
     Task Add(Reservacion reservacion);
